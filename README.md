@@ -1,5 +1,4 @@
 ## Hi, I'm Augusto 👋
-> I am passionate about solving problems using programming.
 <!-- Me ;D -->
 
 
