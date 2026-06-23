@@ -1,8 +1,8 @@
 ## Olá! Sou o Augusto Leal 👋
 
- - 📚 Cursando Ciência da Computação no IFMG
- - 💻 Atualmente estou aprendendo mais sobre python e Django, react e node.js.
- - 🧑‍💼 Estou a procura de uma estágio na área de programção
+ - 📚 Cursando Ciência da Computação no IFMG;
+ - 💻 Atualmente estou aprendendo mais sobre react;
+ - 🧑‍💼 Atualmente Estagiando.
 
 <div style="display: flex; align-itens:left"><br>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />        
